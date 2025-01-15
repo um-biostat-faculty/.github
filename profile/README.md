@@ -3,9 +3,6 @@
 This organization serves as a holding place for department faculty to share code.
 While repositories can be made publicly available, the original intent was for internal sharing and collaboration.
 
-> [!NOTE]
-> To include e**xisting public repositorie**s by outside collaborators, simply **fork** the repository, choosing the um-biostat-faculty organization as the owner.
-
 ## Requesting Access
 
 All access is manually configured, so you must be added to the GitHub organization via request before you can use it!
