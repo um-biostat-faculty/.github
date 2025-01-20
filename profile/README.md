@@ -1,3 +1,4 @@
+![UM Biostat SPH Logo](Biostat_external_horiz_white.png)
 # Welcome to the UM Biostat Faculty Organization!
 
 This organization serves as a holding place for department faculty to share code.
